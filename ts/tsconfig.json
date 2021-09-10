@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": false,
+        "sourceMap": true,
+        "outFile": "main.js"
+    }
+}
